@@ -1,5 +1,5 @@
-![Demo](assets/https://cdn.imageurlgenerator.com/uploads/c0629e10-8aff-45da-90ad-0334cb0910cc.gif
-)
+<img src="https://cdn.imageurlgenerator.com/uploads/c0629e10-8aff-45da-90ad-0334cb0910cc.gif
+ " width="500" alt="App Demo">
  "Don't eat it all at once if you don't want, save some for later, if you want."
  - Patrick Hockstetter, IT
 
