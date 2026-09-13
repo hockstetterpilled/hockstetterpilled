@@ -1,4 +1,4 @@
-https://giphy.com/gifs/Rwra7DVcPZuiBYinI3.gif
+
 
  "Don't eat it all at once if you don't want, save some for later, if you want."
  - Patrick Hockstetter, IT
